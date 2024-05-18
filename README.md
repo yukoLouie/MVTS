@@ -8,11 +8,11 @@ Este proyecto se centra en el desarrollo de un sistema para monitorear el tráfi
 
 ### **Prototipo Funcional**
 
-El prototipo funcional del sistema MVTS se encuentra en el directorio `/prototipo`. Este prototipo proporciona una representación inicial de cómo funcionará el sistema, incluyendo la visualización en tiempo real de los semáforos y vehículos, así como la detección y gestión de congestiones.
+El prototipo funcional del sistema MVTS se encuentra en el directorio `/MVTS`. Este prototipo proporciona una representación inicial de cómo funcionará el sistema, incluyendo la visualización en tiempo real de los semáforos y vehículos, así como la detección y gestión de congestiones.
 
 ### **Diagramas de ArchiMate**
 
-Los diagramas de ArchiMate para el sistema MVTS se encuentran en el directorio `/diagramas`. Estos diagramas proporcionan una representación visual de alto nivel de la arquitectura del sistema, incluyendo los actores, roles, procesos y flujos de información.
+Los diagramas de ArchiMate para el sistema MVTS se encuentran en el directorio Principal. Estos diagramas proporcionan una representación visual de alto nivel de la arquitectura del sistema, incluyendo los actores, roles, procesos y flujos de información.
 
 A continuación se muestran algunos de los diagramas clave:
 
