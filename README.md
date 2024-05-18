@@ -18,13 +18,12 @@ A continuación se muestran algunos de los diagramas clave:
 
 #### **Diagrama de Procesos de Negocio**
 
-!Capa de Negocios (https://github.com/yukoLouie/MVTS/blob/main/Capa%20de%20Aplicacion.png)
-![Capa de Negocios](https://github.com/yukoLouie/MVTS/blob/main/Capa%20de%20Aplicacion.png)
+![Capa de Negocios](https://github.com/yukoLouie/MVTS/blob/main/Capa%20de%20Negocio.png)
  
 #### **Diagrama de Aplicación**
 
-!Capa de Aplicación.png
+![Capa de Negocios](https://github.com/yukoLouie/MVTS/blob/main/Capa%20de%20Aplicacion.png)
 
 #### **Diagrama de tecnologia**
 
-!Capa de Tecnologia.png
+![Capa de Negocios](https://github.com/yukoLouie/MVTS/blob/main/Capa%20de%20Tecnologia.png)
