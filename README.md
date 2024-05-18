@@ -18,7 +18,8 @@ A continuación se muestran algunos de los diagramas clave:
 
 #### **Diagrama de Procesos de Negocio**
 
-!Capa de Negocios.png Capa de Negocios.png
+!Capa de Negocios
+
  
 #### **Diagrama de Aplicación**
 
