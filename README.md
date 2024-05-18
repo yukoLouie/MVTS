@@ -18,12 +18,12 @@ A continuación se muestran algunos de los diagramas clave:
 
 #### **Diagrama de Procesos de Negocio**
 
-!Diagrama de Procesos de Negocio
+!Capa de Negocios.png
 
 #### **Diagrama de Aplicación**
 
-!Diagrama de Aplicación
+!Capa de Aplicación.png
 
-#### **Diagrama de Infraestructura**
+#### **Diagrama de tecnologia**
 
-!Diagrama de Infraestructura
+!Capa de Tecnologia.png
